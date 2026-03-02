@@ -3,13 +3,13 @@
 Este repositorio documenta el viaje analítico y de desarrollo para construir un sistema de trading algorítmico rentable. En lugar de buscar un "bot mágico", este proyecto es una autopsia paso a paso de diferentes estrategias cuantitativas, exponiendo los fallos matemáticos ocultos (comisiones, overfitting, riesgo de ruina) y evolucionando el código hasta integrar Machine Learning y Procesamiento de Lenguaje Natural (NLP).
 
 # 1. Tecnologías Utilizadas
-Lenguaje: Python
+- Lenguaje: Python
 
-Librerías de Datos: yfinance, pandas
+- Librerías de Datos: yfinance, pandas
 
-Machine Learning: scikit-learn (Random Forest Classifier)
+- Machine Learning: scikit-learn (Random Forest Classifier)
 
-Procesamiento de Lenguaje Natural (NLP): nltk (VADER Sentiment Analysis)
+- Procesamiento de Lenguaje Natural (NLP): nltk (VADER Sentiment Analysis)
 
 # 2. Fases de Desarrollo y Lecciones Aprendidas
 - Fase 1: El Espejismo del Scalping y el "Grid Trading"
