@@ -2,7 +2,7 @@
 
 Este repositorio documenta el viaje analítico y de desarrollo para construir un sistema de trading algorítmico rentable. En lugar de buscar un "bot mágico", este proyecto es una autopsia paso a paso de diferentes estrategias cuantitativas, exponiendo los fallos matemáticos ocultos (comisiones, overfitting, riesgo de ruina) y evolucionando el código hasta integrar Machine Learning y Procesamiento de Lenguaje Natural (NLP).
 
-🛠️ Tecnologías Utilizadas
+# 1. Tecnologías Utilizadas
 Lenguaje: Python
 
 Librerías de Datos: yfinance, pandas
