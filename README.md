@@ -59,3 +59,14 @@ La Estrategia: El mercado no solo es matemática, es psicología. Usamos NLTK (V
 El Resultado: El bot asignó puntuaciones de sentimiento (de -1 a +1) a los titulares, tomando una decisión final (Optimismo, Miedo o Neutralidad) para filtrar operaciones basadas puramente en el pánico o la euforia humana.
 
 Lección Cuantitativa: El procesamiento de lenguaje natural tiene "ruido" (noticias de otras empresas coladas por el sector), por lo que requiere blindaje en la extracción de datos (manejo de KeyErrors en APIs).
+
+🚀 Conclusión del Proyecto
+El "Santo Grial" del trading algorítmico no es un indicador mágico. Es un Stack Cuantitativo que combina:
+
+Machine Learning para la ventaja probabilística.
+
+Análisis de Sentimiento para entender el contexto irracional.
+
+Gestión de Riesgo (Trailing Stops) para proteger el capital.
+
+Optimización de Comisiones (Umbrales de confianza y estados Hold).
